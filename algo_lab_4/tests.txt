@@ -1,0 +1,30 @@
+2
+
+create
+create
+extract-min 0
+extract-min 1
+insert 0 1
+insert 1 5
+merge 0 1
+extract-min 2
+extract-min 2
+extract-min 2
+
+
+4
+
+
+5
+1 9 10
+2 9 9
+3 9 8
+4 9 7
+5 9 6
+2
+YES
+NO
+
+ans:
+5 
+5 
